@@ -1,0 +1,6 @@
+@media (max-width: 460px){
+    .main> .submain> .contactUs{
+        padding: 20px;
+        font-size: 14px;
+    }
+}
